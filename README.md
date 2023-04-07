@@ -5,7 +5,7 @@ MindMaps:
 - [ ] Der Vertragsabschluss
 - [ ] Grundbegriffe des Privatrechts
 - [ ] Leistungsstörungen
-- [ ] Schadenersatz und Haftung
+- [x] Schadenersatz und Haftung
 - [x] Unternehmensrecht
 - [ ] Gesellschaftsrecht
 - [ ] Konsumentenschutz und Onlinehandel
