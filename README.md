@@ -7,5 +7,5 @@ MindMaps:
 - [ ] Leistungsstörungen
 - [x] Schadenersatz und Haftung
 - [x] Unternehmensrecht
-- [ ] Gesellschaftsrecht
+- [x] Gesellschaftsrecht
 - [ ] Konsumentenschutz und Onlinehandel
